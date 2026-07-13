@@ -41,7 +41,7 @@ The three technical files are byte-for-byte identical to the corresponding files
 - the [supplementary archive published through IEEE Xplore](https://ieeexplore.ieee.org/ielx7/6687316/10473608/10159366/tte-3288525-mm.zip?arnumber=10159366); and
 - the [supplementary archive shared on ResearchGate](https://www.researchgate.net/publication/374630807).
 
-The accompanying documentation in the archived packages contains outdated metadata, including an earlier model filename and an incorrect paper year. This repository therefore provides the corrected `README.md`, `LICENSE.txt`, and `CITATION.cff` while leaving the three technical MATLAB/Simulink files unchanged.
+The documentation accompanying the original IEEE Xplore archive contains outdated metadata, including an earlier model filename and an incorrect paper year. This repository and the corrected ResearchGate package provide updated `README.md`, `LICENSE.txt`, and `CITATION.cff` while leaving the three technical MATLAB/Simulink files unchanged.
 
 ### SHA-256 checksums
 
@@ -51,7 +51,7 @@ The accompanying documentation in the archived packages contains outdated metada
 | `angle.mat` | `3d2ac59903c08a8ccf5d6c17d05dede84ae1c52b1c296d9e0efb54a19b3a73f1` |
 | `backEMF.mat` | `2dd4571dfb792a944fbec812bcb1ba89a0265bf56910df91b5d072399efefeae` |
 
-For reference, the complete IEEE wrapper archive downloaded during preparation had SHA-256 `81eec26f4f5753909e14842bbe2ae386ad55d568f87347111bcadc144cffb3b4`. The ResearchGate archive had SHA-256 `5adc067b9618b538b3c129453f39609c02d0a6b1460d75f643af3bc820a31769`. Their packaging differs, but their three technical files match exactly.
+For reference, the complete IEEE wrapper archive downloaded during preparation had SHA-256 `81eec26f4f5753909e14842bbe2ae386ad55d568f87347111bcadc144cffb3b4`. The corrected ResearchGate archive has SHA-256 `5534e66bc53af37e44d4dac262cb977e7ca5e8d66bcc743cf1428ad7102fb71c`. Their packaging differs, but their three technical files match exactly.
 
 ## Related resources
 
