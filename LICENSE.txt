@@ -1,0 +1,22 @@
+License
+
+SPDX-License-Identifier: CC-BY-4.0
+
+Unless otherwise stated, the files in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the material, provided that appropriate credit
+is given.
+
+License text:
+https://creativecommons.org/licenses/by/4.0/
+
+Please cite the associated paper when using this material:
+
+A. G. Yepes, W. E. Abdel-Azim, A. Shawier, A. S. Abdel-Khalik,
+M. S. Hamad, S. Ahmed, and J. Doval-Gandoy,
+"Open-Phase-Tolerant Online Current References for Maximum Torque Range and
+Minimum Loss With Current and Torque-Ripple Limits for n-Phase Nonsalient
+PMSMs With Nonsinusoidal Back EMF," IEEE Transactions on Transportation
+Electrification, vol. 10, no. 1, pp. 432-449, March 2024,
+doi: 10.1109/TTE.2023.3288525.

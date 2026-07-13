@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite the software record and the associated paper."
+title: "Supplementary files for paper \"Open-Phase-Tolerant Online Current References for Maximum Torque Range and Minimum Loss With Current and Torque-Ripple Limits for n-Phase Nonsalient PMSMs With Nonsinusoidal Back EMF\""
+type: software
+authors:
+  - given-names: "Alejandro G."
+    family-names: "Yepes"
+    orcid: "https://orcid.org/0000-0002-1423-4276"
+  - given-names: "Wessam E."
+    family-names: "Abdel-Azim"
+    orcid: "https://orcid.org/0000-0001-5607-0313"
+  - given-names: "Abdullah"
+    family-names: "Shawier"
+    orcid: "https://orcid.org/0000-0003-1910-1242"
+  - given-names: "Ayman Samy"
+    family-names: "Abdel-Khalik"
+    orcid: "https://orcid.org/0000-0001-5162-4954"
+  - given-names: "Mostafa S."
+    family-names: "Hamad"
+  - given-names: "Shehab"
+    family-names: "Ahmed"
+    orcid: "https://orcid.org/0000-0003-0073-8745"
+  - given-names: "Jesús"
+    family-names: "Doval-Gandoy"
+    orcid: "https://orcid.org/0000-0001-8526-3106"
+version: 1.0.0
+date-released: 2026-07-13
+license: CC-BY-4.0
+repository-code: "https://github.com/agyepes/simulink-open-phase-tolerant-current-refs-max-torque-range-min-loss-n-phase-pmsms-nonsinusoidal"
+url: "https://github.com/agyepes/simulink-open-phase-tolerant-current-refs-max-torque-range-min-loss-n-phase-pmsms-nonsinusoidal"
+keywords:
+  - MATLAB
+  - Simulink
+  - Stateflow
+  - multiphase PMSM
+  - open-phase fault
+  - current-reference generation
+  - maximum torque range
+  - minimum loss
+  - torque-ripple limitation
+  - nonsinusoidal back-EMF
+preferred-citation:
+  type: article
+  title: "Open-Phase-Tolerant Online Current References for Maximum Torque Range and Minimum Loss With Current and Torque-Ripple Limits for n-Phase Nonsalient PMSMs With Nonsinusoidal Back EMF"
+  authors:
+    - given-names: "Alejandro G."
+      family-names: "Yepes"
+      orcid: "https://orcid.org/0000-0002-1423-4276"
+    - given-names: "Wessam E."
+      family-names: "Abdel-Azim"
+      orcid: "https://orcid.org/0000-0001-5607-0313"
+    - given-names: "Abdullah"
+      family-names: "Shawier"
+      orcid: "https://orcid.org/0000-0003-1910-1242"
+    - given-names: "Ayman Samy"
+      family-names: "Abdel-Khalik"
+      orcid: "https://orcid.org/0000-0001-5162-4954"
+    - given-names: "Mostafa S."
+      family-names: "Hamad"
+    - given-names: "Shehab"
+      family-names: "Ahmed"
+      orcid: "https://orcid.org/0000-0003-0073-8745"
+    - given-names: "Jesús"
+      family-names: "Doval-Gandoy"
+      orcid: "https://orcid.org/0000-0001-8526-3106"
+  journal: "IEEE Transactions on Transportation Electrification"
+  volume: 10
+  issue: 1
+  start: 432
+  end: 449
+  year: 2024
+  month: 3
+  doi: "10.1109/TTE.2023.3288525"
