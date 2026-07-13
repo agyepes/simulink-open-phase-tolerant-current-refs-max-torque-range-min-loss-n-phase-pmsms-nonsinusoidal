@@ -25,9 +25,10 @@ authors:
     orcid: "https://orcid.org/0000-0001-8526-3106"
 version: 1.0.0
 date-released: 2026-07-13
+doi: "10.5281/zenodo.21345273"
 license: CC-BY-4.0
 repository-code: "https://github.com/agyepes/simulink-open-phase-tolerant-current-refs-max-torque-range-min-loss-n-phase-pmsms-nonsinusoidal"
-url: "https://github.com/agyepes/simulink-open-phase-tolerant-current-refs-max-torque-range-min-loss-n-phase-pmsms-nonsinusoidal"
+url: "https://doi.org/10.5281/zenodo.21345273"
 keywords:
   - MATLAB
   - Simulink

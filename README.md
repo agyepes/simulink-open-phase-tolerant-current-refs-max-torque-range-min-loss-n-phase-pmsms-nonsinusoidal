@@ -56,6 +56,7 @@ For reference, the complete IEEE wrapper archive downloaded during preparation h
 ## Related resources
 
 - Paper: https://doi.org/10.1109/TTE.2023.3288525
+- Zenodo software record: https://doi.org/10.5281/zenodo.21345273
 - IEEE Xplore supplementary material: https://ieeexplore.ieee.org/abstract/document/10159366/media
 - ResearchGate supplementary-material record: https://www.researchgate.net/publication/374630807
 - Related Simulink tutorial 1: https://www.youtube.com/watch?v=vQROHWiQqzo
@@ -70,4 +71,4 @@ Unless otherwise stated, the files in this repository are licensed under the [Cr
 
 ## Citation
 
-Please cite the associated IEEE TTE paper above when using these files. A machine-readable citation is provided in `CITATION.cff`. The DOI of the matching Zenodo software record will be added after it is reserved.
+Please cite the associated IEEE TTE paper above when using these files. When citing this archived software release, use https://doi.org/10.5281/zenodo.21345273. A machine-readable citation is provided in `CITATION.cff`.
